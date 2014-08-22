@@ -3,3 +3,6 @@ target/
 .classpath
 .settings/
 bin
+*.iml
+*.ipr
+atlassian-ide-plugin.xml
